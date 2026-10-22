@@ -1,0 +1,38 @@
+Git & GitHub Useful Command
+
+Git
+=======
+
+git config --global user.name "Your Name"
+git config --global user.email "your@example.com"
+git config user.name
+git config user.email
+
+git init //Start Trace This Folder 
+git status
+git add ____.extention //file name and extension
+git add . //All File in this folder
+git commit -m "Add Something..."
+git log
+git log --oneline
+
+git add
+git commit -m
+
+git restore --staged _____.extentatin //file name and extension
+
+git tag v1.0 //Giving Naming Version
+git log --oneline
+git checkout //log name
+
+git checkout -b ______ //Name for Branch
+	Sample git checkout -b feature-message
+
+
+
+
+
+ 
+
+
+
